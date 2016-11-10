@@ -1,0 +1,36 @@
+<style>
+
+.color {
+    background-color: black;
+}
+
+.divtext {
+    color: lightblue;
+}
+
+.title1 {
+  color: lightblue;
+    padding-left: 15px;
+}
+
+.image {
+    padding-left: 15px;
+}
+
+.hand {
+    width: 50px;
+    height: 60px;
+}
+
+.div1 {
+    color: lightblue;
+    float: left;
+}
+
+.div2 {
+    color: lightblue;
+    align-self: baseline;
+    padding-top: 80px;
+}
+
+</style>
